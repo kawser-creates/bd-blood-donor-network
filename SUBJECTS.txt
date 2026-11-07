@@ -1,0 +1,3 @@
+Confirm signup  -> আপনার কোড / Your code: {{ .Token }}
+Magic Link      -> লগইন কোড / Sign-in code: {{ .Token }}
+(The app uses email OTP only. "Change Email Address" is not used.)
